@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Interactive Map Example</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+      #map {
+        height: 500px; /* Set the height of the map */
+        width: 100%; /* Set the width of the map */
+      }
+    </style>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    />
+  </head>
+  <body>
+    <h1>Interactive Map Example</h1>
+    <div id="map"></div>
+    <div id="loading" style="display: none">Loading...</div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script>
+      // Initialize the map
+      const map = L.map("map").setView([51.505, -0.09], 13); // Set initial view (latitude, longitude, zoom level)
+
+      // Add a tile layer (OpenStreetMap)
+      L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        maxZoom: 19,
+        attribution: "© OpenStreetMap contributors", // Set attribution  text
+      }).addTo(map);
+
+      // Define locations for markers
+      const locations = [
+        { lat: 51.5, lng: -0.09, popup: "Marker 1" },
+        { lat: 51.51, lng: -0.1, popup: "Marker 2" },
+
+        { lat: 51.49, lng: -0.08, popup: "Marker 3" },
+      ];
+
+      // Add markers to the map
+      locations.forEach((location) => {
+        const marker = L.marker([location.lat, location.lng]).addTo(map);
+        marker.bindPopup(location.popup);
+      });
+
+      // Optional: Add a click event to the map
+      map.on("click", function (e) {
+        alert("You clicked the map at " + e.latlng);
+      });
+    </script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js"></script>
+    <noscript>
+      <p>This application requires JavaScript to function properly.</p>
+    </noscript>
+  </body>
+</html>
