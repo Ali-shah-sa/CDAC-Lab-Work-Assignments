@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\DotNet\LanguageFeatures\LanguageFeatures\bin\Debug\net9.0\LanguageFeatures.exe
+C:\Users\user\Desktop\DotNet\LanguageFeatures\LanguageFeatures\bin\Debug\net9.0\LanguageFeatures.deps.json
+C:\Users\user\Desktop\DotNet\LanguageFeatures\LanguageFeatures\bin\Debug\net9.0\LanguageFeatures.runtimeconfig.json
+C:\Users\user\Desktop\DotNet\LanguageFeatures\LanguageFeatures\bin\Debug\net9.0\LanguageFeatures.dll
+C:\Users\user\Desktop\DotNet\LanguageFeatures\LanguageFeatures\bin\Debug\net9.0\LanguageFeatures.pdb
+C:\Users\user\Desktop\DotNet\LanguageFeatures\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DotNet\LanguageFeatures\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DotNet\LanguageFeatures\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.AssemblyInfo.cs
+C:\Users\user\Desktop\DotNet\LanguageFeatures\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DotNet\LanguageFeatures\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.dll
+C:\Users\user\Desktop\DotNet\LanguageFeatures\LanguageFeatures\obj\Debug\net9.0\refint\LanguageFeatures.dll
+C:\Users\user\Desktop\DotNet\LanguageFeatures\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.pdb
+C:\Users\user\Desktop\DotNet\LanguageFeatures\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.genruntimeconfig.cache
+C:\Users\user\Desktop\DotNet\LanguageFeatures\LanguageFeatures\obj\Debug\net9.0\ref\LanguageFeatures.dll

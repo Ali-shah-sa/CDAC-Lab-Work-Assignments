@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\DotNet\ThreadExamples\ThreadExamples\obj\Debug\net8.0\ThreadExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DotNet\ThreadExamples\ThreadExamples\obj\Debug\net8.0\ThreadExamples.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DotNet\ThreadExamples\ThreadExamples\obj\Debug\net8.0\ThreadExamples.AssemblyInfo.cs
+C:\Users\user\Desktop\DotNet\ThreadExamples\ThreadExamples\obj\Debug\net8.0\ThreadExamples.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DotNet\ThreadExamples\ThreadExamples\bin\Debug\net8.0\ThreadExamples.exe
+C:\Users\user\Desktop\DotNet\ThreadExamples\ThreadExamples\bin\Debug\net8.0\ThreadExamples.deps.json
+C:\Users\user\Desktop\DotNet\ThreadExamples\ThreadExamples\bin\Debug\net8.0\ThreadExamples.runtimeconfig.json
+C:\Users\user\Desktop\DotNet\ThreadExamples\ThreadExamples\bin\Debug\net8.0\ThreadExamples.dll
+C:\Users\user\Desktop\DotNet\ThreadExamples\ThreadExamples\bin\Debug\net8.0\ThreadExamples.pdb
+C:\Users\user\Desktop\DotNet\ThreadExamples\ThreadExamples\obj\Debug\net8.0\ThreadExamples.dll
+C:\Users\user\Desktop\DotNet\ThreadExamples\ThreadExamples\obj\Debug\net8.0\refint\ThreadExamples.dll
+C:\Users\user\Desktop\DotNet\ThreadExamples\ThreadExamples\obj\Debug\net8.0\ThreadExamples.pdb
+C:\Users\user\Desktop\DotNet\ThreadExamples\ThreadExamples\obj\Debug\net8.0\ThreadExamples.genruntimeconfig.cache
+C:\Users\user\Desktop\DotNet\ThreadExamples\ThreadExamples\obj\Debug\net8.0\ref\ThreadExamples.dll
